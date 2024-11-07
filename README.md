@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hello, I'm Ekansh Arora!  
 
-<!--
-**Ekansh27/Ekansh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of GitHub! 🚀  
+I’m a **Computer Science + Linguistics** student at the University of Illinois Urbana-Champaign.
 
-Here are some ideas to get you started:
+[**ekansharora.com**](http://www.ekansharora.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Current Projects & Contributions
+- **Clabbers**: A Scrabble-focused tool to assist national players in practice and tournament prep. Built with **Flutter**.
+- **Matched.lol**: A matchmaking platform for League of Legends players, built using **Next.js** for web app and **Flutter** for mobile.
+
+---
+
+### 💼 Connect With Me:
+- [LinkedIn](https://www.linkedin.com/in/ekansh-arora)
