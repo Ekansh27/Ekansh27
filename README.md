@@ -1,15 +1,14 @@
 # 👋 Hello, I'm Ekansh Arora!  
 
-Welcome to my corner of GitHub! 🚀  
-I’m a **Computer Science + Linguistics** student at the University of Illinois Urbana-Champaign.
+I’m a **Mathematics + Computer Science** student at the University of Illinois Urbana-Champaign.
 
 [**ekansharora.com**](http://www.ekansharora.com/)
 
 ---
 
-## 📚 Current Projects & Contributions
-- **Clabbers**: A Scrabble-focused tool to assist national players in practice and tournament prep. Built with **Flutter**.
-- **Matched.lol**: A matchmaking platform for League of Legends players, built using **Next.js** for web app and **Flutter** for mobile.
+## 📚 Projects 
+- **Clabbers**: Flutter-based tool for national Scrabble players to streamline practice and tournament preparation.
+- **Genpact**: Built an ML agent for touchless Accounts Payable processing by analyzing top 3 errors to boost automation rates.
 
 ---
 
