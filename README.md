@@ -5,4 +5,4 @@ Hi, I'm **Ekansh Arora**. I’m a **Math + CS** student at the University of Ill
 
 
 - Website: [**ekansharora.com**](http://www.ekansharora.com/)
-- Connect with me: [LinkedIn](https://www.linkedin.com/in/ekansh-arora)
+- Connect with me: [**LinkedIn**](https://www.linkedin.com/in/ekansh-arora)
