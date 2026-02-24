@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Ekansh Arora!  
-
-I’m a **Mathematics + Computer Science** student at the University of Illinois Urbana-Champaign.
+Hi, I'm Ekansh. I’m a **Math + CS** student at the University of Illinois Urbana-Champaign.
 
 [**ekansharora.com**](http://www.ekansharora.com/)
 
