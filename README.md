@@ -5,5 +5,5 @@ Hi, I'm Ekansh. I’m a **Math + CS** student at the University of Illinois Urba
 ---
 
 
-# Connect With Me:
-- [LinkedIn](https://www.linkedin.com/in/ekansh-arora)
+
+- Connect with me: [LinkedIn](https://www.linkedin.com/in/ekansh-arora)
