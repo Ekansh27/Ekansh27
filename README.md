@@ -4,11 +4,6 @@ Hi, I'm Ekansh. I’m a **Math + CS** student at the University of Illinois Urba
 
 ---
 
-## 📚 Projects 
-- **Clabbers**: Flutter-based tool for national Scrabble players to streamline practice and tournament preparation.
-- **Genpact**: Built an ML agent for touchless Accounts Payable processing by analyzing top 3 errors to boost automation rates.
 
----
-
-### 💼 Connect With Me:
+# Connect With Me:
 - [LinkedIn](https://www.linkedin.com/in/ekansh-arora)
