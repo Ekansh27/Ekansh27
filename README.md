@@ -1,8 +1,7 @@
-Hi, I'm **Ekansh Arora**. I’m a **Math + CS** student at the University of Illinois Urbana-Champaign.
+Hi, I'm Ekansh. Math+CS @ UIUC
 
 
 ---
 
-
-- Website: [**ekansharora.com**](http://www.ekansharora.com/)
-- Connect with me: [**LinkedIn**](https://www.linkedin.com/in/ekansh-arora)
+- Twitter: [**here**](https://x.com/ekansharora27)
+- Website: [**here**](http://www.ekansharora.com/)
